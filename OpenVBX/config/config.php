@@ -449,7 +449,7 @@ $config['proxy_ips'] = '';
 | failed (0)" then set the option below to true.
 |
 */
-$config['twilio_use_certificate'] = false;
+$config['twilio_use_certificate'] = true;
 
 /*
 |--------------------------------------------------------------------------
