@@ -1,6 +1,7 @@
 OpenVBX/config/database.php
 OpenVBX/config/openvbx.php
 OpenVBX/config/*-local.php
+plugins/OpenVBX-Plugin-Polls-master 2
 system/logs/*.php
 audio-uploads/*
 apc.php
