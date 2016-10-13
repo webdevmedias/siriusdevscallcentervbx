@@ -36,7 +36,7 @@ $(function(){
 				},
 				dataType: 'text'
 			});
-		return false;
+		return true;
 	});
 	$('.vbx-subscriptions .subscriber a.delete').click(function() {
 		var $subscriber = $(this).parent().parent().parent();
@@ -54,7 +54,7 @@ $(function(){
 				},
 				dataType: 'text'
 			});
-		return false;
+		return true;
 	});
 	$('.vbx-subscriptions a.sms').click(function() {
 		var $list = $(this).parent().parent().parent();
